@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stef.CleanHtml", "Stef.CleanHtml\Stef.CleanHtml.csproj", "{0B8CA631-369B-44A5-B44D-33CE143AABD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stef.CleanHtml.Test", "Stef.CleanHtml.Test\Stef.CleanHtml.Test.csproj", "{B9787F52-7401-42A1-97AC-DD89F23009D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8CA631-369B-44A5-B44D-33CE143AABD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8CA631-369B-44A5-B44D-33CE143AABD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8CA631-369B-44A5-B44D-33CE143AABD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8CA631-369B-44A5-B44D-33CE143AABD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9787F52-7401-42A1-97AC-DD89F23009D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9787F52-7401-42A1-97AC-DD89F23009D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9787F52-7401-42A1-97AC-DD89F23009D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9787F52-7401-42A1-97AC-DD89F23009D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D9BB9C-7EBE-474D-9622-DF7F6718B644}
+	EndGlobalSection
+EndGlobal
